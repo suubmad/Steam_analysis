@@ -9,7 +9,7 @@ Steam is a video game digital distribution service by Valve. It was launched as 
 <font color = 'blue'>
 Contents:
 
-1.[Importing data and libraries] </br>
+1.[Importing data and libraries](#1) </br>
 2.[Load and Check Data]</br>
       * [Data Editing]</br>
 3.[Visualizations]</br>
