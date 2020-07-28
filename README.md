@@ -10,9 +10,9 @@ Steam is a video game digital distribution service by Valve. It was launched as 
 Contents:
 
 1.[Importing data and libraries](#1) </br>
-2.[Load and Check Data]</br>
-      * [Data Editing]</br>
-3.[Visualizations]</br>
+2.[Load and Check Data](#1)</br>
+      * [Data Editing](#1)</br>
+3.[Visualizations](#1)</br>
 
 
 ## Visualizations
