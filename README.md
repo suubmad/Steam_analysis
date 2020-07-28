@@ -2,8 +2,8 @@
 ![steam](https://user-images.githubusercontent.com/29547973/88657101-08f5dd00-d0da-11ea-8bec-9a6c6d8c5c46.jpg)</br>
 # Steam_analysis </br>
 
-# Introduction Steam
-## Steam analysis
+
+# Steam analysis
 
 ### Steam analysis and visualizations: pandas , matplotlib and seaborn
 
